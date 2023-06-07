@@ -1,0 +1,19 @@
+﻿@model HomeViewModel
+
+<div>
+    @await Html.PartialAsync("Carousel")
+</div>
+
+<div class="container mt-4">
+    <h2 class="mb-3">Get to know us: </h2>
+    <h6 class="homeText">
+        <p>At Best Motors Auto Sales, located in Cluj-Napoca, Cluj, we love what we do and want you to love your next vehicle. Our goal is to find you the pre-owned car you’ve been looking for at competitive and affordable prices. We focus 100% on our customers and believe car-buying should be a fun, hassle-free experience! We have a wide variety of quality vehicles that feature an assortment of options to meet any taste. Best of all, there are no hidden fees or costs. Buying a used car makes a whole lot of sense. One reason is that new cars, on average, lose 11 percent of their value the minute you drive them off the lot. But older cars depreciate more slowly, so you get more for your money when you buy a used car. When employing our services, your experience is sure to be the best!</p>
+        <p>Come visit us at <span class="fst-italic">Calea Turzii 223, Cluj-Napoca 400495, Romania</span></p>
+        <p>Phone: <span class="fst-italic">+40-264 438 820</span></p>
+    </h6>
+    <h2 class="m-2">Our best sellers: </h2>
+    <div class="row mt-4 mb-2">
+        @{ foreach(Car car in Model.favCars) {
+                @await Html.PartialAsync("AllCars", car) } }
+    </div>
+</div>

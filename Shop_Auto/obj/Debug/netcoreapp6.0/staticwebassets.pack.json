@@ -1,0 +1,125 @@
+{
+  "Files": [
+    {
+      "Id": "E:\\AN3\\Proiect\\Shop_Auto\\wwwroot\\img\\bmwi4.jpg",
+      "PackagePath": "staticwebassets\\img\\bmwi4.jpg"
+    },
+    {
+      "Id": "E:\\AN3\\Proiect\\Shop_Auto\\wwwroot\\img\\bmwix.jpg",
+      "PackagePath": "staticwebassets\\img\\bmwix.jpg"
+    },
+    {
+      "Id": "E:\\AN3\\Proiect\\Shop_Auto\\wwwroot\\img\\carouselimage_1.jpg",
+      "PackagePath": "staticwebassets\\img\\carouselimage_1.jpg"
+    },
+    {
+      "Id": "E:\\AN3\\Proiect\\Shop_Auto\\wwwroot\\img\\carouselimage_2.jpg",
+      "PackagePath": "staticwebassets\\img\\carouselimage_2.jpg"
+    },
+    {
+      "Id": "E:\\AN3\\Proiect\\Shop_Auto\\wwwroot\\img\\carouselimage_3.jpg",
+      "PackagePath": "staticwebassets\\img\\carouselimage_3.jpg"
+    },
+    {
+      "Id": "E:\\AN3\\Proiect\\Shop_Auto\\wwwroot\\img\\carouselimage_4.jpg",
+      "PackagePath": "staticwebassets\\img\\carouselimage_4.jpg"
+    },
+    {
+      "Id": "E:\\AN3\\Proiect\\Shop_Auto\\wwwroot\\img\\carouselimage_5.jpg",
+      "PackagePath": "staticwebassets\\img\\carouselimage_5.jpg"
+    },
+    {
+      "Id": "E:\\AN3\\Proiect\\Shop_Auto\\wwwroot\\img\\chevroletspark.jpg",
+      "PackagePath": "staticwebassets\\img\\chevroletspark.jpg"
+    },
+    {
+      "Id": "E:\\AN3\\Proiect\\Shop_Auto\\wwwroot\\img\\closeBtn.png",
+      "PackagePath": "staticwebassets\\img\\closeBtn.png"
+    },
+    {
+      "Id": "E:\\AN3\\Proiect\\Shop_Auto\\wwwroot\\img\\fordmustangmache.jpg",
+      "PackagePath": "staticwebassets\\img\\fordmustangmache.jpg"
+    },
+    {
+      "Id": "E:\\AN3\\Proiect\\Shop_Auto\\wwwroot\\img\\hondaaccord.jpg",
+      "PackagePath": "staticwebassets\\img\\hondaaccord.jpg"
+    },
+    {
+      "Id": "E:\\AN3\\Proiect\\Shop_Auto\\wwwroot\\img\\hyundaiaccent.jpg",
+      "PackagePath": "staticwebassets\\img\\hyundaiaccent.jpg"
+    },
+    {
+      "Id": "E:\\AN3\\Proiect\\Shop_Auto\\wwwroot\\img\\hyundaiioniq.jpg",
+      "PackagePath": "staticwebassets\\img\\hyundaiioniq.jpg"
+    },
+    {
+      "Id": "E:\\AN3\\Proiect\\Shop_Auto\\wwwroot\\img\\kiaev6.jpg",
+      "PackagePath": "staticwebassets\\img\\kiaev6.jpg"
+    },
+    {
+      "Id": "E:\\AN3\\Proiect\\Shop_Auto\\wwwroot\\img\\kiaforte.jpg",
+      "PackagePath": "staticwebassets\\img\\kiaforte.jpg"
+    },
+    {
+      "Id": "E:\\AN3\\Proiect\\Shop_Auto\\wwwroot\\img\\kiario.jpg",
+      "PackagePath": "staticwebassets\\img\\kiario.jpg"
+    },
+    {
+      "Id": "E:\\AN3\\Proiect\\Shop_Auto\\wwwroot\\img\\nissansentra.jpg",
+      "PackagePath": "staticwebassets\\img\\nissansentra.jpg"
+    },
+    {
+      "Id": "E:\\AN3\\Proiect\\Shop_Auto\\wwwroot\\img\\nissanversa.jpg",
+      "PackagePath": "staticwebassets\\img\\nissanversa.jpg"
+    },
+    {
+      "Id": "E:\\AN3\\Proiect\\Shop_Auto\\wwwroot\\img\\porschetaycan.jpg",
+      "PackagePath": "staticwebassets\\img\\porschetaycan.jpg"
+    },
+    {
+      "Id": "E:\\AN3\\Proiect\\Shop_Auto\\wwwroot\\img\\searchIcon.png",
+      "PackagePath": "staticwebassets\\img\\searchIcon.png"
+    },
+    {
+      "Id": "E:\\AN3\\Proiect\\Shop_Auto\\wwwroot\\img\\skodaenyaq.jpg",
+      "PackagePath": "staticwebassets\\img\\skodaenyaq.jpg"
+    },
+    {
+      "Id": "E:\\AN3\\Proiect\\Shop_Auto\\wwwroot\\img\\teslamodel3.jpg",
+      "PackagePath": "staticwebassets\\img\\teslamodel3.jpg"
+    },
+    {
+      "Id": "E:\\AN3\\Proiect\\Shop_Auto\\wwwroot\\img\\teslamodely.jpg",
+      "PackagePath": "staticwebassets\\img\\teslamodely.jpg"
+    },
+    {
+      "Id": "E:\\AN3\\Proiect\\Shop_Auto\\wwwroot\\img\\toyotacorolla.jpg",
+      "PackagePath": "staticwebassets\\img\\toyotacorolla.jpg"
+    },
+    {
+      "Id": "E:\\AN3\\Proiect\\Shop_Auto\\wwwroot\\img\\volkswagenjetta.jpg",
+      "PackagePath": "staticwebassets\\img\\volkswagenjetta.jpg"
+    },
+    {
+      "Id": "E:\\AN3\\Proiect\\Shop_Auto\\wwwroot\\js\\script.js",
+      "PackagePath": "staticwebassets\\js\\script.js"
+    },
+    {
+      "Id": "obj\\Debug\\netcoreapp6.0\\staticwebassets\\msbuild.Shop_Auto.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\netcoreapp6.0\\staticwebassets\\msbuild.build.Shop_Auto.props",
+      "PackagePath": "build\\Shop_Auto.props"
+    },
+    {
+      "Id": "obj\\Debug\\netcoreapp6.0\\staticwebassets\\msbuild.buildMultiTargeting.Shop_Auto.props",
+      "PackagePath": "buildMultiTargeting\\Shop_Auto.props"
+    },
+    {
+      "Id": "obj\\Debug\\netcoreapp6.0\\staticwebassets\\msbuild.buildTransitive.Shop_Auto.props",
+      "PackagePath": "buildTransitive\\Shop_Auto.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
